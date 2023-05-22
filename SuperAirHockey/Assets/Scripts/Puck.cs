@@ -25,7 +25,7 @@ public class Puck : MonoBehaviour
     {
         if (CompareTag("Player"))
         {
-            rigidbody.AddForce();
+            //rigidbody.AddForce();
         }
     }
 }
